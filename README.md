@@ -1,6 +1,6 @@
 <h1>Spotify<h1/>
 
-<p>Using libraries like <strong>jQuery</strong>, <strong>Handlebars</strong> and <strong>Sammy</strong> is allowed but is not obligatory. You are assigned to implement a <strong>Web application</strong> (SPA) using HTML5, JavaScript, AJAX, REST and JSON with cloud-based backend (Kinvey). The app keeps <strong>users</strong> and <strong>songs</strong>. Users can <strong>register</strong>, <strong>login</strong>, <strong>logout</strong> , view all songs with all the <strong>songs</strong>. They will also be able to <strong>like</strong> the songs added <strong>by other users</strong> and should be able to <strong>listen and remove their own songs</strong>. There should also be a <strong>section </strong>where users can <strong>see only the songs they created</strong>.</p>
+<h4>Using libraries like <strong>jQuery</strong>, <strong>Handlebars</strong> and <strong>Sammy</strong> is allowed but is not obligatory. You are assigned to implement a <strong>Web application</strong> (SPA) using HTML5, JavaScript, AJAX, REST and JSON with cloud-based backend (Kinvey). The app keeps <strong>users</strong> and <strong>songs</strong>. Users can <strong>register</strong>, <strong>login</strong>, <strong>logout</strong> , view all songs with all the <strong>songs</strong>. They will also be able to <strong>like</strong> the songs added <strong>by other users</strong> and should be able to <strong>listen and remove their own songs</strong>. There should also be a <strong>section </strong>where users can <strong>see only the songs they created</strong>.</h4>
 
 ![Webp net-gifmaker](https://user-images.githubusercontent.com/28908397/55901737-9dc98400-5bd2-11e9-95c2-1587ba00efbb.gif)
 
@@ -14,10 +14,11 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+![Kenvey1](https://user-images.githubusercontent.com/28908397/55902270-d158de00-5bd3-11e9-8607-26488582a385.JPG)
 
 ![Ca5pture](https://user-images.githubusercontent.com/28908397/55902490-44625480-5bd4-11e9-89fc-dcc456a61941.JPG)
 
-![Kenvey1](https://user-images.githubusercontent.com/28908397/55902270-d158de00-5bd3-11e9-8607-26488582a385.JPG)
+
 
 <p>In order to be able to keep track of the <strong>likes and listened </strong>of each song, you need to <strong>allow all users to edit this collection</strong>. So go to the <strong>properties</strong> of the collection:</p>
 <p>&nbsp;</p>
